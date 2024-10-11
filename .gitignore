@@ -28,5 +28,4 @@ env/
 .DS_Store
 Thumbs.db
 
-# Modelos y datos
-models/
+
